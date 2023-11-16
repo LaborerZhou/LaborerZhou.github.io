@@ -6,7 +6,7 @@ https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 
 
 #EXTINF:-1,tvg-id="sport" tvg-name="CCTV5" tvg-logo="https://laborerzhou.github.io/live/logo/sport.png" group-title="综合体育",CCTV5
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 #EXTINF:-1,tvg-id="sport" tvg-name="纬来体育" tvg-logo="https://laborerzhou.github.io/live/logo/sport.png" group-title="综合体育",纬来体育
 https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #EXTINF:-1,tvg-id="sport" tvg-name="综合体育" tvg-logo="https://laborerzhou.github.io/live/logo/sport.png" group-title="综合体育",综合体育
